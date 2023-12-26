@@ -1,0 +1,75 @@
+#form-modal label.col-form-label {
+    text-transform: capitalize;
+}
+
+.custom-error span.error.text-danger {
+    position: absolute;
+    margin-top: 35px;
+}
+
+main {
+    min-height: 90vh;
+}
+
+.pac-container {
+    z-index: 1051 !important;
+}
+
+.modal-dialog.modal-lg{
+    max-width: 90%;
+}
+
+#mainImageSelection li,
+#mainImageSelection0 li {
+    display: inline-flex;
+}
+
+#mainImageSelection li button,
+#mainImageSelection0 li button {
+    max-height: 30px;
+    margin: 10px;
+}
+
+.pagination-a>.pagination {
+    justify-content: flex-end !important;
+}
+
+nav {
+    padding: 10px !important;
+}
+
+nav .nav-link {
+    font-size: .9rem !important;
+}
+
+.intro-single {
+    padding: 6rem 0 3rem !important;
+}
+
+.img-box-a {
+    min-height: 386px;
+    background: white;
+}
+
+@media (min-width: 992px) {
+    .list-a li {
+        width: 55.333%;
+    }
+}
+
+@media (min-width: 768px) {
+    .box-collapse {
+      width: 50%;
+    }
+      .color-b img{
+          width: 120px;
+      }
+  }
+  
+.property-grid .card-box-a{
+    max-height: 350px !important;
+}
+
+.contact-map#map{
+    min-height: 500px;
+}
